@@ -1,0 +1,21 @@
+#label{
+  text-align: center;
+  display: block;
+  font-size: 10em;
+  font-family:  Helvetica;
+}
+#btns{
+    text-align: center;
+}
+.button{
+    padding: 10px 20px ;
+    font-size: 1.5em;
+    color:white;
+    background-color: rgb(93, 93, 255);
+    transition: background-color 0.25;
+    cursor:pointer;
+    border-radius: 5px;
+}
+.button:hover{
+    background-color:rgb(17, 17, 177)
+}
